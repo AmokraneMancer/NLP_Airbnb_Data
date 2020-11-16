@@ -10,7 +10,7 @@ To find out, we process the reviews to find out what peoples' likes and dislikes
 
 ## The datasets
 
-I will use the reviews data and combine it with some features from the detailed Paris listings data, sourced from the Inside Airbnb website. Both datasets were scraped on October 12th 2020.
+I will use the reviews data and combine it with some features from the detailed Paris listings data, sourced from the Inside Airbnb website. Both datasets were scraped on October 12th 2020. </br>
 https://drive.google.com/file/d/1apYLfOOkKgZ2QsOeXtvvANr8VUFv_4k8/view?usp=sharing <br />
 https://drive.google.com/file/d/1mXwiieSZT2UvwzFetfIorJa8hYw0ULyY/view?usp=sharing
 
